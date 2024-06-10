@@ -1,11 +1,82 @@
-{
-    "Books": [
-        {
-            "id": "21321",
-            "name": "name",
-            "pages": "300",
-            "release": "30.01.2020",
-            "authorId": "1"
-        }
-    ]
-}
+"Books": [   
+    {
+        "id": "1",
+        "cover": "cover",
+        "name": "name",
+        "description": "description",
+        "pages": "300",
+        "release": "30.01.2020",
+        "authorId": "1"
+    },
+    {
+        "id": "2",
+        "cover": "cover",
+        "name": "name",
+        "description": "description",
+        "pages": "300",
+        "release": "30.01.2020",
+        "authorId": "1"
+    },
+    {
+        "id": "3",
+        "cover": "cover",
+        "name": "name",
+        "description": "description",
+        "pages": "300",
+        "release": "30.01.2020",
+        "authorId": "1"
+    },
+    {
+        "id": "3",
+        "cover": "cover",
+        "name": "name",
+        "description": "description",
+        "pages": "300",
+        "release": "30.01.2020",
+        "authorId": "1"
+    },
+    {
+        "id": "4",
+        "cover": "cover",
+        "name": "name",
+        "description": "description",
+        "pages": "300",
+        "release": "30.01.2020",
+        "authorId": "2"
+    },
+    {
+        "id": "5",
+        "cover": "cover",
+        "name": "name",
+        "description": "description",
+        "pages": "300",
+        "release": "30.01.2020",
+        "authorId": "2"
+    },
+    {
+        "id": "6",
+        "cover": "cover",
+        "name": "name",
+        "description": "description",
+        "pages": "300",
+        "release": "30.01.2020",
+        "authorId": "2"
+    },
+],
+"Authors": [
+    {
+        "id": "1",
+        "name": "name",
+        "dateOfBirth": "31.02.2022"
+    }
+],
+"Genre": [
+    {
+        "id": "1",
+        "name": "Science Fiction"
+    },
+    {
+        "id": "2",
+        "name": "Fantasy"
+    }
+]
