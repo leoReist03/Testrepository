@@ -73,8 +73,13 @@
 "Authors": [
     {
         "id": "1",
-        "name": "name",
-        "dateOfBirth": "31.02.2022"
+        "name": "Pierce Brown",
+        "dateOfBirth": "28.01.1988"
+    },
+    {
+        "id": "2",
+        "name": "Brandon Sanderson",
+        "dateOfBirt": "19.12.1975"
     }
 ],
 "Genre": [
